@@ -1272,7 +1272,7 @@ Container settings
 
 .. envvar:: WEBLATE_SERVICE
 
-   Defines which services shoul be executed inside the container. Use this for :ref:`docker-scaling`.
+   Defines which services should be executed inside the container. Use this for :ref:`docker-scaling`.
 
    Following services are defined:
 
